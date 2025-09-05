@@ -16,7 +16,7 @@
 
 ---
 
-## ## Key Features
+# Key Features
 
 * **Live Weather Data:** Fetches real-time weather information for any city in the world using the OpenWeatherMap API.
 * **Glassmorphism UI:** A beautiful "frosted glass" interface that is modern and visually appealing.
@@ -25,7 +25,7 @@
 
 ---
 
-## ## Technologies Used
+# Technologies Used
 
 This project was built using a modern front-end stack:
 
@@ -37,7 +37,7 @@ This project was built using a modern front-end stack:
 
 ---
 
-## ## Local Setup
+# Local Setup
 
 To run this project on your local machine:
 
