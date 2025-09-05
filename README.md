@@ -15,7 +15,7 @@
 <br>
 
 <p align="center">
-  <img src="/public/screenshot.png" alt="Weather App Screenshot" width="80%">
+  <img src=""\Desktop\screenshot.jpg"" alt="Weather App Screenshot" width="80%">
 </p>
 
 ---
