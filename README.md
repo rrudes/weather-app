@@ -14,10 +14,6 @@
 
 <br>
 
-<p align="center">
-  ![screenshot](https://github.com/user-attachments/assets/8461929b-e624-4995-b565-cf2397d5ef21)
-</p>
-
 ---
 
 ## ## Key Features
