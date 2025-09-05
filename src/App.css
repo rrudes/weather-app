@@ -1,0 +1,39 @@
+.app-container {
+  /* This uses CSS Grid to perfectly center its child */
+  display: grid;
+  place-items: center;
+  
+  min-height: 100vh;
+  padding: 2rem;
+  box-sizing: border-box;
+}
+
+.content-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.app-header {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1.5rem;
+}
+
+.app-title {
+  font-size: 2.5rem;
+  font-weight: 600;
+  margin: 0;
+  text-align: center;
+  color: rgba(255, 255, 255, 0.9);
+}
+
+.content-container {
+  margin-top: 2rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
