@@ -1,0 +1,54 @@
+.forecast-card {
+  background: rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(15px);
+  -webkit-backdrop-filter: blur(15px);
+  border-radius: 24px;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  padding: 1.5rem;
+  width: 100%;
+  max-width: 450px;
+  color: rgba(255, 255, 255, 0.9);
+  margin-top: 1.5rem;
+}
+
+.forecast-title {
+  text-align: center;
+  margin: 0 0 1rem 0;
+  font-weight: 500;
+  opacity: 0.8;
+}
+
+.forecast-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+.forecast-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 1.1rem;
+}
+
+.forecast-item .day {
+  font-weight: 500;
+  flex-basis: 30%; /* Gives the day name a fixed width */
+}
+
+.forecast-item .icon {
+  flex-basis: 20%;
+  display: flex;
+  justify-content: center;
+}
+
+.forecast-item .temps {
+  font-weight: 600;
+  flex-basis: 30%; /* Gives the temps a fixed width */
+  text-align: right;
+}
+
+.forecast-item .temps .low {
+  opacity: 0.6;
+  font-weight: 400;
+}
